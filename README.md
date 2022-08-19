@@ -1,5 +1,9 @@
 # Implementation of GANs
-Implementating GANs based research paper as I read them.
+Implementating and analyzing the current works on GANs.
+
+## Introduction 
+The Generative in **GANs** describes the statistical models that contrasts with *discriminative* models.
+
 
 ## Requirements (MacOS ARM)
 1. tensorflow-macos
